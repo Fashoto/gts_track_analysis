@@ -1,0 +1,10 @@
+# Raw and merged track data — large, exported separately, not tracked here
+Tracks_*.csv
+*.csv
+
+# Generated report and charts
+*.pptx
+charts/
+
+# OS / editor cruft
+.DS_Store
